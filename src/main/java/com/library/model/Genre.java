@@ -1,4 +1,4 @@
-package com.library.model;
+package com.library.model
 
 // ✅ ТРЕБОВАНИЕ: перечисление с полями и описанием
 public enum Genre {
